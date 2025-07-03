@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamal909/kamal909/main/banner.png" alt="Welcome Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kamal909/portfolio/refs/heads/main/public/banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Kamaljeet Kaur</h1>
