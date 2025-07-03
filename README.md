@@ -1,10 +1,8 @@
 <!-- Banner Image -->
+<h1 align="center">👋 Hi, I'm Kamaljeet Kaur</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kamal909/portfolio/refs/heads/main/public/banner.png" alt="Welcome Banner" width="100%" />
 </p>
-
-<h1 align="center">👋 Hi, I'm Kamaljeet Kaur</h1>
-
 <p align="center">
   💻 Full-Stack Developer | 🎨 Frontend Enthusiast | 🇨🇦 Based in Canada  
 </p>
